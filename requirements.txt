@@ -22,7 +22,7 @@ openpyxl>=3.1.2
 pandas>=2.2.2
 python-pptx>=0.6.21
 SpeechRecognition>=3.10.0
-openai-whisper
+openai-whisper==20231117
 docx2pdf
 pdf2docx
 PyMuPDF
