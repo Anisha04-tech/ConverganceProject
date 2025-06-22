@@ -1,0 +1,6 @@
+Conversion used: Image on file IMG_20230211_200920.jpg
+Conversion used: Image on file IMG_20230211_200920.jpg
+Conversion used: PDF on file IMG_20230211_200920.jpg
+Conversion: pdf → Word (.docx) for Ani.pdf
+Conversion used: pptx → pdf on file FYP Final.pptx
+Conversion used: pptx → pdf on file FYP Final.pptx
