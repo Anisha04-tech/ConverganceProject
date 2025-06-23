@@ -22,11 +22,7 @@ openpyxl>=3.1.2
 pandas>=2.2.2
 python-pptx>=0.6.21
 SpeechRecognition>=3.10.0
-<<<<<<< HEAD
 openai-whisper==20231117
-=======
-git+https://github.com/openai/whisper.git
->>>>>>> 5a0cbe1 (fix: update whisper dependency)
 docx2pdf
 pdf2docx
 PyMuPDF
